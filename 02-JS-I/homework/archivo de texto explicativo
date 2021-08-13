@@ -1,0 +1,8 @@
+archivo de texto explicativo
+VARIABLES: las variables como su nombre indica es un comando donde nosotros con la palabra (var, let) creamos una funcion donde se pueda cambiar su contenido ej:
+var nombre = "matt"
+var nombre = "luisa"
+STRINGS: Con las comillas ("") identificas una palabra que no invoca ninguna funcion.
+FUNCIONES: Con el comando (function) creas una funcion donde ejecuta un codigo que este dentro de el (para no crear siempre los mismos codigos)ej:
+funcion puedeManejar(edad) { if (edad > 18) { return true } else { return false }
+}
